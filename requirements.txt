@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 streamlit
 numpy
 matplotlib
 time
-pandas
-=======
-streamlit
-numpy
-matplotlib
-time
->>>>>>> 3a41c8ca6435a0c5d9667b7b8075519f9ba1ebe9
+
+
