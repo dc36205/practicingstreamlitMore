@@ -26,4 +26,4 @@ progress_bar.empty()
 # Streamlit widgets automatically run the scrip
 # this button is not connected to any other log
 # rerun.
-st.button("Re-run") # El salvajeee !!!! Este es el tipooooo!!!
+st.button("Re-run") # El salvajeee !!!! Este es el tipooooo!!! un nivel antes
