@@ -26,4 +26,4 @@ progress_bar.empty()
 # Streamlit widgets automatically run the scrip
 # this button is not connected to any other log
 # rerun.
-st.button("Re-run") 
+st.button("Re-run") # Fixing error
