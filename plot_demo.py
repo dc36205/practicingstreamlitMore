@@ -9,6 +9,7 @@
 import streamlit as st
 import time
 import numpy as np
+import matplotlib.pyplot as plt 
 
 progress_bar = st.sidebar.progress(0)
 status_text = st.sidebar.empty()
@@ -26,11 +27,9 @@ progress_bar.empty()
 # Streamlit widgets automatically run the scrip
 # this button is not connected to any other log
 # rerun.
-st.button("Re-run") # El salvajeee !!!! Este es el tipooooo!!! un nivel antes
+st.button("Re-run") 
 
-import streamlit as st   
-import numpy as np   
-import matplotlib.pyplot as plt  
+ 
 
 with st.form('first form'):
 	perc_heads = st.number_input(label='Chance of Coins Landing on Heads', min_value=0.0, 	max_value=1.0, value=.5)  
