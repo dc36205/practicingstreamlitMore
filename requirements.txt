@@ -1,7 +1,11 @@
+# Fichero requirements en practicingstreamlitMore
+
 streamlit
 numpy
-time
 matplotlib
+scipy
 pandas
+time
+
 
 
